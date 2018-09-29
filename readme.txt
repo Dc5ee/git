@@ -4,10 +4,3 @@ Git has a mutable index called stage.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick.
-test how branch dev to works.
-test again how branch dev to works .
-<<<<<<< HEAD
-this is a change that dev made.
-=======
-this is a change that dev made.
->>>>>>> dev
