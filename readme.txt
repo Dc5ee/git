@@ -6,4 +6,8 @@ Git tracks changes.
 Creating a new branch is quick.
 test how branch dev to works.
 test again how branch dev to works .
-this is a change that master made.
+<<<<<<< HEAD
+this is a change that master made,it's true.
+=======
+this is a change that dev made.
+>>>>>>> dev
